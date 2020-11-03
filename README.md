@@ -19,4 +19,4 @@ Please make sure to update tests as appropriate.
 # License
 [MIT](https://commonmark.org/help/)
 
-![](https://commonmark.org/help/images/favicon.png)
+![](1.jpg)
